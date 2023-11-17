@@ -12,6 +12,7 @@ const App = () => {
       {/* Render MainComponent to toggle between Register and MyProfile */}
       {/* Render MyProfile directly here */}
       {/* <MyProfile /> */}
+      <li></li>
     </div>
   );
 };
