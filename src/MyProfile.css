@@ -1,0 +1,272 @@
+.myprofile1 {
+  top: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 1024px;
+}
+.myprofile1,
+.name-child,
+.name1 {
+  position: absolute;
+  left: 0;
+}
+.name1 {
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 84.5px;
+  height: 20.91px;
+}
+.name-child {
+  top: 20.91px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 351px;
+  height: 43.91px;
+}
+.mail,
+.name {
+  height: 64.81px;
+}
+.name {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 351px;
+}
+.mail {
+  top: 156.81px;
+}
+.bio,
+.bio-child,
+.mail,
+.phone {
+  position: absolute;
+  left: 0;
+  width: 351px;
+}
+.bio-child {
+  top: 20.91px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  height: 127.53px;
+}
+.bio,
+.phone {
+  top: 313.61px;
+  height: 148.44px;
+}
+.phone {
+  top: 235.21px;
+  height: 64.81px;
+}
+.submitchanges-child {
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #f10000;
+  width: 351px;
+}
+.submit-changes,
+.submitchanges,
+.submitchanges-child {
+  position: absolute;
+  height: 47.04px;
+}
+.submit-changes {
+  top: 0;
+  left: 18.42px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 315.25px;
+}
+.submitchanges {
+  top: 505.96px;
+  left: 0;
+  width: 351px;
+  font-size: 25px;
+  color: #fff;
+}
+.profilesection,
+.surname {
+  position: absolute;
+  top: 78.4px;
+  left: 0;
+  width: 351px;
+  height: 64.81px;
+}
+.profilesection {
+  top: 267px;
+  left: 594px;
+  height: 553px;
+}
+.profile {
+  margin: 0;
+}
+.profile-photo-security-container {
+  position: absolute;
+  top: 365px;
+  left: 113px;
+  font-size: 20px;
+  color: #000;
+  display: inline-block;
+  width: 192px;
+  height: 411px;
+}
+.my-profile,
+.pp-1-icon {
+  position: absolute;
+  top: 184px;
+}
+.pp-1-icon {
+  left: 125px;
+  width: 192px;
+  height: 164px;
+  object-fit: cover;
+}
+.my-profile {
+  left: 606px;
+  font-size: 30px;
+  font-weight: 500;
+  display: inline-block;
+  width: 328px;
+  height: 62px;
+}
+.lines-icon {
+  position: absolute;
+  top: 167px;
+  left: 102px;
+  width: 1206px;
+  height: 711px;
+}
+.emapp,
+.header-child {
+  position: absolute;
+  top: 36px;
+}
+.emapp {
+  left: 25px;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  display: inline-block;
+  width: 235px;
+  height: 46px;
+}
+.header-child {
+  left: 260px;
+  border-radius: 20px;
+  background-color: #e5e5e5;
+  width: 315px;
+  height: 32px;
+}
+.icon,
+.search-1-icon {
+  position: absolute;
+  top: 36px;
+  left: 41px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.search-1-icon {
+  left: 274px;
+  width: 32px;
+  height: 31.18px;
+}
+.header-item {
+  border-radius: 5px;
+  background-color: #f10000;
+  height: 40px;
+}
+.basket-3,
+.header-item,
+.search {
+  width: 116px;
+  position: absolute;
+  top: 32px;
+  left: 1236px;
+}
+.search {
+  left: 320px;
+  font-size: 30px;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  width: 123px;
+  height: 25px;
+}
+.header-inner {
+  position: absolute;
+  top: 99.5px;
+  left: -0.5px;
+  border-top: 1px solid #f10000;
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.header-child1,
+.header-child2,
+.line-div {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  box-sizing: border-box;
+}
+.line-div {
+  border-top: 1px solid #f10000;
+  width: 1441px;
+  height: 1px;
+}
+.header-child1,
+.header-child2 {
+  border-right: 1px solid #f10000;
+  width: 1px;
+  height: 101px;
+}
+.header-child2 {
+  left: 1439.5px;
+}
+.courses,
+.login {
+  width: 77px;
+  position: absolute;
+  top: 41px;
+  left: 810px;
+}
+.login {
+  width: 57px;
+  left: 925px;
+}
+.header,
+.register {
+  width: 77px;
+  position: absolute;
+  top: 40px;
+  left: 1026px;
+}
+.header {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 100px;
+  font-size: 35px;
+  color: #f10000;
+  font-family: Newsreader;
+}
+.myprofile {
+  position: relative;
+  width: 100%;
+  height: 1024px;
+  text-align: center;
+  font-size: 15px;
+  color: #6d6d6d;
+  font-family: Inter;
+}
